@@ -30,7 +30,7 @@ Not every chapter in the Rust Async Book has transferable source code but for th
 
 A Rust Async Book chapter package has been created in this repository workspace for chapters including source code examples.
 
-Path Convention: `rust-lang-async-book/<chapter-uri-path>`
+Path Convention: `rust-lang-async-book/ch<chapter_number>_<section-uri-path>`
 
 The Rust Language Async Book itself is included as a GIT submodule. This tethers chapter work to a specific version of the book.
 
