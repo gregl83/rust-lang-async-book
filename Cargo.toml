@@ -1,5 +1,6 @@
 [workspace]
 members = [
     "ch01_02_why_async",
-    "ch01_04_async_await_primer"
+    "ch01_04_async_await_primer",
+    "ch02_02_future"
 ]
